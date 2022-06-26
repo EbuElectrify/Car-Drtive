@@ -1,0 +1,16 @@
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\bin\Debug\net5.0\interfaceLab.exe
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\bin\Debug\net5.0\interfaceLab.deps.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\bin\Debug\net5.0\interfaceLab.runtimeconfig.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\bin\Debug\net5.0\interfaceLab.runtimeconfig.dev.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\bin\Debug\net5.0\interfaceLab.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\bin\Debug\net5.0\ref\interfaceLab.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\bin\Debug\net5.0\interfaceLab.pdb
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.csproj.AssemblyReference.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.AssemblyInfoInputs.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.AssemblyInfo.cs
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.csproj.CoreCompileInputs.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\ref\interfaceLab.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.pdb
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\interface\interfaceLab\interfaceLab\obj\Debug\net5.0\interfaceLab.genruntimeconfig.cache
